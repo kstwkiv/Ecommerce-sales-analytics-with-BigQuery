@@ -21,4 +21,4 @@ Built an end-to-end sales analytics pipeline using **BigQuery** and visualized r
 - Average Order Value (AOV)
 
 ## Dashboard
-[🔗 View Interactive Dashboard]((https://lookerstudio.google.com/reporting/59922b78-0385-43b9-84c2-8464d897973d))
+[🔗 View Interactive Dashboard]([https://lookerstudio.google.com/reporting/59922b78-0385-43b9-84c2-8464d897973d])
